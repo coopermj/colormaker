@@ -1,0 +1,10 @@
+Package: colormaker
+Title: Sets colors for health indicators for a dashboard
+Version: 0.0.0.9000
+Authors@R: person("Micah", "Cooper", email = "coopermj@meebles.org", role = c("aut", "cre"))
+Description: Sets colors for health indicators for a dashboard based on values that you provide.
+Depends: R (>= 3.3.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
